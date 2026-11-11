@@ -1,0 +1,22 @@
+# Build output
+build/
+
+# Compiled stuff
+*.o
+*.a
+*.so
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Results / plots
+results/
+*.png
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
